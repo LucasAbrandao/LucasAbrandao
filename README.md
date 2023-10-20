@@ -13,7 +13,7 @@
 - :school: I am a `Computer Engineering Student` at [CEFET-MG](https://www.cefetmg.br/).
 - :computer: I am a competitive programmer.
 - :nerd_face: Always `learning new things`.
-- :thinking: this is [MY RESUME](http://buscatextual.cnpq.br/buscatextual/visualizacv.do).
+- :thinking: this is [MY RESUME](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1107882T2).
 
 
 
@@ -93,9 +93,6 @@
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
@@ -143,8 +140,3 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
