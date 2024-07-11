@@ -20,8 +20,8 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profile
 
 <p align="center">
-  <a href="https://codeforces.com/profile/LucasABrandao"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
   <a href="https://judge.beecrowd.com/pt/profile/712791"><img src="https://judge.beecrowd.com/favicon.ico?1700546944" alt="BeeCrowd"/></a>
+  <a href="https://codeforces.com/profile/LucasABrandao"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 
 </p>
 
